@@ -47,7 +47,7 @@ pass- ubuntu
 ![alt text](https://github.com/Wiibuntu/Ubuntu-13.10-Wii/blob/main/Screenshots/Screenshot%202024-03-11%20120047.png?raw=true)
 
 # WiFI Config
-Its as simple as using the "whiite-ez-wifi-config" file located in "home" and setting up for wifi!
+Its as simple as using the "whiite-ez-wifi-config" file located in "/home/ubuntu" and setting up for wifi!
 
 If that doesnt work please use the command "sudo nano /etc/network/interfaces" and add the ssid and passkey yourself.
 
