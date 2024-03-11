@@ -5,7 +5,7 @@
 This repository contains images of Ubuntu Server 13 for the Wii. Downloads are found to your right (on desktop).
 
 # About The Project
-Trying to bring newer versions of Ubuntu to the Wii has been a project of mine for the last few months. Many trial and errors.
+Trying to bring newer versions of Ubuntu to the Wii has been a project of mine for a while. Many trial and errors.
 This versions actually build somewhat off of [Wii-Linux-NGX](https://github.com/neagix/wii-linux-ngx)
 But this version uses the same bootloader with a different kernel, a newer one. And it also boots Ubuntu 13 instead of Debian 8.
 
