@@ -29,3 +29,33 @@ That will instead load a bootloader known as Gumboot. More on Gumboot [here](htt
 In order to select a different item in gumboot you MUST have a gamecube controller plugged in. But, thankfully it will auto boot in 30 seconds.
 
 By Default gumboot will load the the Stable kernel. If you have a gamecube controller you can choose the other option below the default top option, which is a newer kernel but is also quite broken as you will see if you boot from it.
+
+![alt text](https://github.com/Wiibuntu/Ubuntu14-Wii/blob/main/Screenshots/Screen%20Shot%202023-10-17%20at%205.50.29%20PM.png)
+
+![alt text](https://github.com/Wiibuntu/Ubuntu-13.10-Wii/blob/main/Screenshots/Screenshot%202024-03-11%20115913.png?raw=true)
+
+You will see an errors have been found at / dialog, im no pro, so I did most likely mess something up, but press I on a keyboard to ignore this and continue to boot.
+
+![alt text](https://github.com/Wiibuntu/Ubuntu-13.10-Wii/blob/main/Screenshots/Screenshot%202024-03-11%20115949.png?raw=true)
+
+# Login
+
+user- ubuntu
+
+pass- ubuntu
+
+![alt text](https://github.com/Wiibuntu/Ubuntu-13.10-Wii/blob/main/Screenshots/Screenshot%202024-03-11%20120047.png?raw=true)
+
+# WiFI Config
+Its as simple as using the "whiite-ez-wifi-config" file located in "home" and setting up for wifi!
+
+If that doesnt work please use the command "sudo nano /etc/network/interfaces" and add the ssid and passkey yourself.
+
+![alt text](https://github.com/Wiibuntu/Ubuntu-13.10-Wii/blob/main/Screenshots/Screenshot%202024.png?raw=true)
+
+# Swapfile
+Swapfile has already been setup but is small and can be made bigger if you wish.
+
+Swapfile is needed to even run basic tasks but was kept small in order to keep download size as small as possible. 
+
+![alt text](https://github.com/Wiibuntu/Ubuntu-13.10-Wii/blob/main/Screenshots/Screenshot%202024-03-11%20120110.png?raw=true)
