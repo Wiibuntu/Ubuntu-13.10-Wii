@@ -59,3 +59,6 @@ Swapfile has already been setup but is small and can be made bigger if you wish.
 Swapfile is needed to even run basic tasks but was kept small in order to keep download size as small as possible. 
 
 ![alt text](https://github.com/Wiibuntu/Ubuntu-13.10-Wii/blob/main/Screenshots/Screenshot%202024-03-11%20120110.png?raw=true)
+
+# Contact
+Contact me at wiibuntuhelp@gmail.com I will always try to help if I can and have the time to do so.
